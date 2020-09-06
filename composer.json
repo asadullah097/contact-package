@@ -1,0 +1,19 @@
+{
+    "name": "asadlaravel/contact",
+    "description": "this will send email to admin",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Asad ullah",
+            "email": "asaddir5566@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Asadlaravel\\Contact\\": "src/"
+        }
+    }
+}
