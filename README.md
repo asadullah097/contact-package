@@ -8,6 +8,5 @@
 
     Asadlaravel\Contact\ContactServiceProvider::class,
     ]
-#config contact.php enter the admin email address
 
 #after instaling run this  "Asadlaravel\\Contact\\": "package/contact/src"
